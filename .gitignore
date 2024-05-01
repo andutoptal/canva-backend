@@ -1,0 +1,4 @@
+.env
+.dir-locals.el
+db.sqlite
+node_modules
